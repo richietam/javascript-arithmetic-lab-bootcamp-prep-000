@@ -1,6 +1,6 @@
 var a = 1210
 var b = 1
 
-function add() {
+function add(a, b) {
   a + b
 }
