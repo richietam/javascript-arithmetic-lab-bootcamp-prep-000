@@ -1,5 +1,6 @@
 function add(a, b) {
-  1 + 2
+  a = 1
+  b = 2
   return 1 + 2
 }
 
