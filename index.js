@@ -1,5 +1,5 @@
-var a = 2
-var b = 1
+var a = 450
+var b = 450
 
 function add(a, b) {
   a += b
