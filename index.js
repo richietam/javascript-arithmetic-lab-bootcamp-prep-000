@@ -2,7 +2,7 @@ var a = 450
 var b = 450
 
 function add(a, b) {
-  var a = 1
-  var b = 2
+  var a = 424
+  var b = 1
   return a += b
 }
